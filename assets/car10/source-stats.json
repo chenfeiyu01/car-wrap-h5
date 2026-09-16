@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Studio_Car02_Mesh.1013",
+    "triangles": 19080,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car04_Mesh.1011",
+    "triangles": 21696,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car05_Mesh.1010",
+    "triangles": 21696,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car10_Mesh.1005",
+    "triangles": 19080,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car11_Mesh.994",
+    "triangles": 146220,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car148_Mesh.960",
+    "triangles": 360,
+    "materials": [
+      "glass"
+    ]
+  },
+  {
+    "name": "Studio_Car150_Mesh.957",
+    "triangles": 846,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car151_Mesh.956",
+    "triangles": 846,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car162_Mesh.944",
+    "triangles": 1992,
+    "materials": [
+      "(null)"
+    ]
+  },
+  {
+    "name": "Studio_Car163_Mesh.943",
+    "triangles": 3984,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car164_Mesh.942",
+    "triangles": 1240,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car165_Mesh.941",
+    "triangles": 1240,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car166_Mesh.940",
+    "triangles": 400,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car167_Mesh.939",
+    "triangles": 400,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car170_Mesh.937",
+    "triangles": 1188,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car171_Mesh.936",
+    "triangles": 1188,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car172_Mesh.935",
+    "triangles": 414,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car173_Mesh.934",
+    "triangles": 414,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car174_Mesh.933",
+    "triangles": 17280,
+    "materials": [
+      "BRAKE_Disk"
+    ]
+  },
+  {
+    "name": "Studio_Car175_Mesh.932",
+    "triangles": 17280,
+    "materials": [
+      "BRAKE_Disk"
+    ]
+  },
+  {
+    "name": "Studio_Car176_Mesh.931",
+    "triangles": 4032,
+    "materials": [
+      "headlight_black"
+    ]
+  },
+  {
+    "name": "Studio_Car177_Mesh.930",
+    "triangles": 4032,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car178_Mesh.929",
+    "triangles": 842,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car179_Mesh.928",
+    "triangles": 8764,
+    "materials": [
+      "caliper"
+    ]
+  },
+  {
+    "name": "Studio_Car180_Mesh.926",
+    "triangles": 842,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car181_Mesh.925",
+    "triangles": 8764,
+    "materials": [
+      "caliper"
+    ]
+  },
+  {
+    "name": "Studio_Car182_Mesh.924",
+    "triangles": 120,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car183_Mesh.923",
+    "triangles": 120,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car184_Mesh.922",
+    "triangles": 5760,
+    "materials": [
+      "headlight_black"
+    ]
+  },
+  {
+    "name": "Studio_Car185_Mesh.921",
+    "triangles": 5760,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car187.001_Mesh.004",
+    "triangles": 5568,
+    "materials": [
+      "blinkers"
+    ]
+  },
+  {
+    "name": "Studio_Car187.002_Mesh.007",
+    "triangles": 2896,
+    "materials": [
+      "glass"
+    ]
+  },
+  {
+    "name": "Studio_Car187_Mesh.919",
+    "triangles": 170212,
+    "materials": [
+      "carbon_fiber"
+    ]
+  },
+  {
+    "name": "Studio_Car198_Mesh.908",
+    "triangles": 4800,
+    "materials": [
+      "mirrors"
+    ]
+  },
+  {
+    "name": "Studio_Car229_Mesh.875",
+    "triangles": 136,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car236.001_Mesh.003",
+    "triangles": 38592,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car236.002_Mesh.005",
+    "triangles": 18432,
+    "materials": [
+      "chrome"
+    ]
+  },
+  {
+    "name": "Studio_Car236.003_Mesh.006",
+    "triangles": 484,
+    "materials": [
+      "chrome"
+    ]
+  },
+  {
+    "name": "Studio_Car236.004_Mesh.008",
+    "triangles": 20588,
+    "materials": [
+      "chrome"
+    ]
+  },
+  {
+    "name": "Studio_Car236.005_Mesh.009",
+    "triangles": 43392,
+    "materials": [
+      "GT4SEATBADGE"
+    ]
+  },
+  {
+    "name": "Studio_Car236.006_Mesh.010",
+    "triangles": 1300,
+    "materials": [
+      "screen"
+    ]
+  },
+  {
+    "name": "Studio_Car236.007_Mesh.012",
+    "triangles": 84544,
+    "materials": [
+      "headlight_black"
+    ]
+  },
+  {
+    "name": "Studio_Car236.008_Mesh.013",
+    "triangles": 1712,
+    "materials": [
+      "GT4SEATBADGE"
+    ]
+  },
+  {
+    "name": "Studio_Car236.009_Mesh.014",
+    "triangles": 436,
+    "materials": [
+      "chrome"
+    ]
+  },
+  {
+    "name": "Studio_Car236.010_Mesh.015",
+    "triangles": 89226,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car236.011_Mesh.017",
+    "triangles": 4672,
+    "materials": [
+      "chrome"
+    ]
+  },
+  {
+    "name": "Studio_Car236.012_Mesh.018",
+    "triangles": 1520,
+    "materials": [
+      "caliper"
+    ]
+  },
+  {
+    "name": "Studio_Car236.013_Mesh.019",
+    "triangles": 50,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car236.014_Mesh.020",
+    "triangles": 15616,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car236.015_Mesh.021",
+    "triangles": 7756,
+    "materials": [
+      "carbon_fiber"
+    ]
+  },
+  {
+    "name": "Studio_Car236.016_Mesh.022",
+    "triangles": 432,
+    "materials": [
+      "GT4SEATBADGE"
+    ]
+  },
+  {
+    "name": "Studio_Car236.017_Mesh.023",
+    "triangles": 2336,
+    "materials": [
+      "chrome"
+    ]
+  },
+  {
+    "name": "Studio_Car236.018_Mesh.024",
+    "triangles": 7756,
+    "materials": [
+      "carbon_fiber"
+    ]
+  },
+  {
+    "name": "Studio_Car236.019_Mesh.025",
+    "triangles": 432,
+    "materials": [
+      "GT4SEATBADGE"
+    ]
+  },
+  {
+    "name": "Studio_Car236.020_Mesh.026",
+    "triangles": 2336,
+    "materials": [
+      "chrome"
+    ]
+  },
+  {
+    "name": "Studio_Car236.021_Mesh.027",
+    "triangles": 35627,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car236.022_Mesh.028",
+    "triangles": 13568,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car236.023_Mesh.029",
+    "triangles": 4656,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car236.024_Mesh.030",
+    "triangles": 2412,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car236_Mesh.867",
+    "triangles": 630035,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car24_Mesh.863",
+    "triangles": 21696,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car252.001_Mesh.001",
+    "triangles": 732,
+    "materials": [
+      "plate"
+    ]
+  },
+  {
+    "name": "Studio_Car252.002_Mesh.002",
+    "triangles": 10176,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car252.003_Mesh.011",
+    "triangles": 814,
+    "materials": [
+      "headlight_black"
+    ]
+  },
+  {
+    "name": "Studio_Car252_Mesh.850",
+    "triangles": 651701,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car25_Mesh.853",
+    "triangles": 21696,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car274_Mesh.826",
+    "triangles": 150400,
+    "materials": [
+      "leather"
+    ]
+  },
+  {
+    "name": "Studio_Car276_Mesh.824",
+    "triangles": 7872,
+    "materials": [
+      "taillights"
+    ]
+  },
+  {
+    "name": "Studio_Car277_Mesh.823",
+    "triangles": 294314,
+    "materials": [
+      "Body_color"
+    ]
+  },
+  {
+    "name": "Studio_Car28_Mesh.820",
+    "triangles": 19080,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car304_Mesh.795",
+    "triangles": 846,
+    "materials": [
+      "(null)"
+    ]
+  },
+  {
+    "name": "Studio_Car305_Mesh.794",
+    "triangles": 846,
+    "materials": [
+      "(null)"
+    ]
+  },
+  {
+    "name": "Studio_Car312_Mesh.786",
+    "triangles": 1240,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car313_Mesh.785",
+    "triangles": 1240,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car314_Mesh.784",
+    "triangles": 400,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car315_Mesh.783",
+    "triangles": 400,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car317_Mesh.782",
+    "triangles": 120,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car318_Mesh.781",
+    "triangles": 120,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car33_Mesh.769",
+    "triangles": 19080,
+    "materials": [
+      "headlight_steel"
+    ]
+  },
+  {
+    "name": "Studio_Car341_Mesh.757",
+    "triangles": 17280,
+    "materials": [
+      "BRAKE_Disk"
+    ]
+  },
+  {
+    "name": "Studio_Car342_Mesh.756",
+    "triangles": 1188,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car343_Mesh.755",
+    "triangles": 17280,
+    "materials": [
+      "BRAKE_Disk"
+    ]
+  },
+  {
+    "name": "Studio_Car344_Mesh.754",
+    "triangles": 1188,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car345_Mesh.753",
+    "triangles": 414,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car346_Mesh.752",
+    "triangles": 414,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car347_Mesh.751",
+    "triangles": 4032,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car348_Mesh.750",
+    "triangles": 4032,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car349_Mesh.749",
+    "triangles": 5760,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car350_Mesh.747",
+    "triangles": 5760,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car351_Mesh.746",
+    "triangles": 842,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car352_Mesh.745",
+    "triangles": 842,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car353_Mesh.744",
+    "triangles": 8764,
+    "materials": [
+      "caliper"
+    ]
+  },
+  {
+    "name": "Studio_Car354_Mesh.743",
+    "triangles": 8764,
+    "materials": [
+      "caliper"
+    ]
+  },
+  {
+    "name": "Studio_Car355_Mesh.742",
+    "triangles": 1992,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car356_Mesh.741",
+    "triangles": 1992,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "Studio_Car66_Mesh.712",
+    "triangles": 4910,
+    "materials": [
+      "glass"
+    ]
+  },
+  {
+    "name": "Studio_Car73_Mesh.705",
+    "triangles": 17312,
+    "materials": [
+      "headlight_black"
+    ]
+  },
+  {
+    "name": "Studio_Car90_Mesh.688",
+    "triangles": 12046,
+    "materials": [
+      "wipers_mateblack"
+    ]
+  },
+  {
+    "name": "wheel.Ft.L.001_tyre00.001",
+    "triangles": 10898,
+    "materials": [
+      "tyre"
+    ]
+  },
+  {
+    "name": "wheel.Ft.L.002_tyre00.008",
+    "triangles": 10898,
+    "materials": [
+      "tyre"
+    ]
+  },
+  {
+    "name": "wheel.Ft.L.003_tyre00.004",
+    "triangles": 10898,
+    "materials": [
+      "tyre"
+    ]
+  },
+  {
+    "name": "wheel.Ft.L.004_tyre00.005",
+    "triangles": 10898,
+    "materials": [
+      "tyre"
+    ]
+  }
+]

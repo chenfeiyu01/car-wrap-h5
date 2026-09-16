@@ -1,0 +1,71 @@
+{
+  "kenney-source-page.html": {
+    "requested_url": "https://kenney.nl/assets/car-kit",
+    "final_url": "https://kenney.nl/assets/car-kit",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "server_content_length": null,
+    "downloaded_at_utc": "2026-09-15T03:35:24.542234+00:00",
+    "bytes": 18011,
+    "sha256": "bbe62161c6de34372d5a68307bee863d48d7677ce91f1332e89dbfa2032f1d70"
+  },
+  "kenney_car-kit.zip": {
+    "requested_url": "https://kenney.nl/media/pages/assets/car-kit/1a312ec241-1775131960/kenney_car-kit.zip",
+    "final_url": "https://kenney.nl/media/pages/assets/car-kit/1a312ec241-1775131960/kenney_car-kit.zip",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "server_content_length": "4814237",
+    "downloaded_at_utc": "2026-09-15T03:35:27.172172+00:00",
+    "bytes": 4814237,
+    "sha256": "fac7dacac5c7874348cf19729af3ef205f3d366493edaf0a827d93f4fdf3d0c4"
+  },
+  "polyhaven-studio-small-03-files.json": {
+    "requested_url": "https://api.polyhaven.com/files/studio_small_03",
+    "final_url": "https://api.polyhaven.com/files/studio_small_03",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "server_content_length": "1713",
+    "downloaded_at_utc": "2026-09-15T03:35:22.822705+00:00",
+    "bytes": 1713,
+    "sha256": "150a5279f62c135fc94033a6725c3f7694c905a47fea75c0af96f1bbc28d17ee"
+  },
+  "polyhaven-studio-small-03-info.json": {
+    "requested_url": "https://api.polyhaven.com/info/studio_small_03",
+    "final_url": "https://api.polyhaven.com/info/studio_small_03",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "server_content_length": "972",
+    "downloaded_at_utc": "2026-09-15T03:35:23.111432+00:00",
+    "bytes": 972,
+    "sha256": "8ca37bf7d15db91ebd867aabf202ac6942b0a08b97580c15b13d173963cfde07"
+  },
+  "polyhaven-license-page.html": {
+    "requested_url": "https://polyhaven.com/license",
+    "final_url": "https://polyhaven.com/license",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "server_content_length": null,
+    "downloaded_at_utc": "2026-09-15T03:35:23.651488+00:00",
+    "bytes": 72336,
+    "sha256": "f530abb18e6317a9b0f2a128b94150e372c8456d7491a14e4860c4ed5f5fe69a"
+  },
+  "polyhaven-asset-page.html": {
+    "requested_url": "https://polyhaven.com/a/studio_small_03",
+    "final_url": "https://polyhaven.com/a/studio_small_03",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "server_content_length": null,
+    "downloaded_at_utc": "2026-09-15T03:35:23.696472+00:00",
+    "bytes": 143990,
+    "sha256": "4ca4d35f165f793c6d945ddebcaf70c32ab9ecdb029e193d19fef4445abc1a15"
+  },
+  "studio_small_03_1k.hdr": {
+    "requested_url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_03_1k.hdr",
+    "source_api": "https://api.polyhaven.com/files/studio_small_03",
+    "bytes": 1686299,
+    "sha256": "30933d55e45f0795daf49f3cbefbe0e5ebcb821ee04fb0a2818c02ffc3938817",
+    "md5": "74e6ef69ea9024c2cc25b3a7de8ec2f7",
+    "source_md5_matches": true,
+    "verified_at_utc": "2026-09-15T03:45:29.455293+00:00"
+  }
+}

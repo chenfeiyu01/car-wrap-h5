@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-09-15T03:47:06.142329+00:00",
+  "readiness": "ready-for-foundation-development",
+  "application_started": false,
+  "application_scaffold_present": false,
+  "local_markdown_links_valid": true,
+  "asset_hashes_valid": true,
+  "prepared_models": 2,
+  "hdr_environments": 1,
+  "colors": 12,
+  "finishes": 4,
+  "model_validation": "0 errors / 0 warnings for both prepared models",
+  "dependency_install_and_imports": "passed",
+  "json_files_parsed": 19,
+  "temporary_files_cleaned": true,
+  "not_yet_verified": [
+    "browser rendering and visual paint isolation",
+    "WeChat real devices",
+    "performance with production vehicle assets",
+    "merchant business-domain integration"
+  ]
+}

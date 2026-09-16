@@ -1,0 +1,70 @@
+{
+  "temporary_workspace": "/var/folders/ly/9nmzd0jn5hqc6nl366v04zd80000gn/T/car-wrap-preflight-qrm1fmqa",
+  "node": "24.11.0",
+  "npm": "11.6.1",
+  "install_exit_code": 0,
+  "import_check_exit_code": 0,
+  "checks": {
+    "react": {
+      "ok": true,
+      "revision": null
+    },
+    "react-dom/server": {
+      "ok": true,
+      "revision": null
+    },
+    "three": {
+      "ok": true,
+      "revision": "186"
+    },
+    "three/addons/loaders/GLTFLoader.js": {
+      "ok": true,
+      "revision": null
+    },
+    "three/addons/controls/OrbitControls.js": {
+      "ok": true,
+      "revision": null
+    },
+    "three/addons/loaders/HDRLoader.js": {
+      "ok": true,
+      "revision": null
+    },
+    "three/addons/loaders/RGBELoader.js": {
+      "ok": true,
+      "revision": null
+    },
+    "vite": {
+      "ok": true,
+      "revision": null
+    },
+    "@vitejs/plugin-react": {
+      "ok": true,
+      "revision": null,
+      "peerDependenciesMeta": {
+        "@rolldown/plugin-babel": {
+          "optional": true
+        },
+        "babel-plugin-react-compiler": {
+          "optional": true
+        },
+        "oxc-transform-react": {
+          "optional": true
+        }
+      }
+    },
+    "typescript": {
+      "ok": true,
+      "revision": null,
+      "bin": {
+        "tsc": "./bin/tsc"
+      }
+    },
+    "gltf-validator": {
+      "ok": true,
+      "revision": null
+    }
+  },
+  "stderr": "",
+  "scope": "Dependency installation and module imports only; no application build or device test.",
+  "temporary_workspace_cleaned": true
+}

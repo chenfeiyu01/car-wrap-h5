@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-15T03:47:05.844479+00:00",
+  "files": [
+    {
+      "path": "assets/environments/studio_small_03_1k.hdr",
+      "bytes": 1686299,
+      "sha256": "30933d55e45f0795daf49f3cbefbe0e5ebcb821ee04fb0a2818c02ffc3938817",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/licenses/Kenney-Car-Kit-License.txt",
+      "bytes": 696,
+      "sha256": "c33b7f6453d134deae7b1b8493717d9ccfa754c25ab97f6de89b88f8fda19b00",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/licenses/Poly-Haven-CC0.md",
+      "bytes": 956,
+      "sha256": "2c3149e47722f324c8e1d73b339f438d15b032e7c0b9f36ab18ec1d2c3acb92f",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/materials/color-library.json",
+      "bytes": 928,
+      "sha256": "34c7d79195509256cbe583b8fcdbfb0703ca51b6bd902909acb66a8e4ce14a36",
+      "origin": "project-authored"
+    },
+    {
+      "path": "assets/materials/finish-presets.json",
+      "bytes": 737,
+      "sha256": "cbb54313afca7548b9d3e4c136ec92f87e7848cabacd190934ea3c0abdadfc1a",
+      "origin": "project-authored"
+    },
+    {
+      "path": "assets/models/Textures/colormap.png",
+      "bytes": 12371,
+      "sha256": "f3622a03a20c6696065cae9cbe391351be873508af190c2ebd1d420c055787a5",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/models/kenney-sedan-prepared.glb",
+      "bytes": 193700,
+      "sha256": "27d6cd454f402a888562c94dfe2a7d3e5cb872210d7b198d5c95624cd185ec23",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/models/kenney-sedan.glb",
+      "bytes": 172216,
+      "sha256": "b532ea7d2c59f7f6b22b138cf1955218a2c1898f1cea932af4d3fd563c3959b7",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/models/kenney-sedan.png",
+      "bytes": 2278,
+      "sha256": "d957628a5689322b152588c1d077c51d0d576b229c788195f4a73d8042177ce4",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/models/kenney-suv-prepared.glb",
+      "bytes": 230364,
+      "sha256": "2bdfeadc02dd25ecac4fa60b3e74d236da36ea2dbc357042614e3671ac51de29",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/models/kenney-suv.glb",
+      "bytes": 207572,
+      "sha256": "9df31f6e89e927a8176fc792aa125f0b19dc1ba29d2025bfef7c4f4d6ab1778a",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    },
+    {
+      "path": "assets/models/kenney-suv.png",
+      "bytes": 2361,
+      "sha256": "9443e1731abc4cafa3ffcf7ccf1abdea24e879ac490c205b60a21e53dbe2c454",
+      "origin": "see research/download-evidence.json and assets/licenses"
+    }
+  ]
+}

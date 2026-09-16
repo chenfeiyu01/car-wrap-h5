@@ -1,0 +1,7 @@
+00:00.631  blend            | Read blend: "/Users/chenfeiyu/Documents/car-wrap-h5/assets/car10/car10-quality.blend"
+/Users/chenfeiyu/Documents/car-wrap-h5/scripts/car10_shadow.py:10: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w=bpy.data.worlds.new('soft');w.use_nodes=True;bpy.context.scene.world=w
+00:30.551  render           | Saved: '/Users/chenfeiyu/Documents/car-wrap-h5/public/models/car10-contact.png'
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

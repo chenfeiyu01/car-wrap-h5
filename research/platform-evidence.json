@@ -1,0 +1,96 @@
+[
+  {
+    "name": "wechat-web-view",
+    "url": "https://developers.weixin.qq.com/miniprogram/dev/component/web-view.html",
+    "http_status": 200,
+    "bytes": 80645,
+    "snippets": {
+      "postMessage": [
+        "1.6.4      bind:message   eventhandler      否   网页向小程序 postMessage 时，会在以下特定时机触发并收到消息：小程序后退、组件销毁、分享、复制链接（ 2.31.1 ）。e.detail = { data }，data是多次 postMessage 的参数组成的数组。    1.6.4     <td",
+        "程序后退、组件销毁、分享、复制链接（ 2.31.1 ）。e.detail = { data }，data是多次 postMessage 的参数组成的数组。    1.6.4      bind:load   eventhandler      否   网页加载成功时候触发此事件。e.detail = { src }   <a href=\"../framework/comp",
+        "序接口一致    1.6.5      wx.miniProgram.postMessage   向小程序发送消息，会在以下特定时机触发组件的message事件：小程序后退、组件销毁、分享、复制链接（ 2.31.1 ）    1.7.1      wx.miniProgram.getEnv "
+      ],
+      "业务域名": [
+        "ref=\"https://mp.weixin.qq.com/\" target=\"_blank\" rel=\"noopener noreferrer\">小程序管理后台   配置业务域名。    1.6.4      bind:message   eventhandler      否   网页向小程序 postMessage 时，会在以下特定时机触发并收到消息：小程序后退、组件销毁、分享、复制链接（<a href=\"../framew"
+      ],
+      "个人": [
+        "  #  功能描述   承载网页的容器。会自动铺满整个小程序页面， 个人类型的小程序暂不支持使用。    客户端 6.7.2 版本开始，  navigationStyle: custom   对  web-view  组件无效   <a href=\"#属性说明\" class=\"h"
+      ],
+      "assets": [
+        "tent=\"微信官方文档\">\n   \n   \n  <link rel=\"apple-touch-icon-precomposed\" href=\"https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YT",
+        "ets/res/NTI4MWU5.ico\">\n   \n   \n   \n(function () {\n  'use strict';\n\n  const SCRIPT_URLs = [\n      'https://dldir1.qq.co",
+        "/res/MjliNWVm.svg\">\n   \n   \n(function () {\n  'use strict';\n\n  const SCRIPT_URLs = [\n      'https://dldir1.qq.com/WechatWebDev/devPlatform/px.min.js',\n      'https://dev.weixin.qq.com/platform-console/proxy/assets/tel/"
+      ]
+    }
+  },
+  {
+    "name": "formdrive-readme",
+    "url": "https://raw.githubusercontent.com/nesdesignco/FormDrive/main/README.md",
+    "http_status": 200,
+    "bytes": 8713,
+    "snippets": {
+      "WebGPU": [
+        "logo=react&logoColor=white)](https://react.dev/)\n[![Three.js](https://img.shields.io/badge/Three.js-WebGPU%20%2B%20WebGL-202124?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org/)\n[![Vite](https://img.shields.io/badge/Vite-7-202124?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)\n[![Lice",
+        "w—are animated and masked as a single physical part.\n\n## Highlights\n\n- Real-time PBR rendering with WebGPU and automatic WebGL fallback\n- React 19 and React Three Fiber component architecture\n- Three independently configured vehicle assets\n- Per-model door, glass, hood and trunk motion definitions\n- Five paint finishes and t",
+        "lication | React 19, React DOM |\n| 3D composition | React Three Fiber, Drei |\n| Renderer | Three.js WebGPU, WebGL fallback |\n| State | Zustand |\n| Build | Vite 7 |\n| Assets | GLB/glTF, PBR materials |\n| Verification | Chrome DevTools Protocol scripts |\n\n## Getting started\n\n### Requirements\n\n- Node.js 22 or newer\n- npm 10 or "
+      ],
+      "License": [
+        ".shields.io/badge/Vite-7-202124?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)\n[![License: MIT](https://img.shields.io/badge/Source-MIT-d8caa8?style=flat-square)](./LICENSE)\n[![Live studio](https://img.shields.io/badge/Live-Vercel-d8caa8?style=flat-square&logo=vercel&logoColor=202124)](https://form-drive.ver",
+        "t relicensed under MIT**; each remains subject to its original license.\n\n| Asset | Creator/source | License |\n| --- | --- | --- |\n| 2005 Ford Mustang GT | [Ricy / Sketchfab](https://sketchfab.com/3d-models/2005-ford-mustang-gt-26b6b60cf2804370ac3c64424242dc1f) | [CC BY 4.0](./public/models/MUSTANG-LICENSE.md) |\n| Tesla 2018 M",
+        "[SECURITY.md](./SECURITY.md). Do not publish sensitive vulnerability details in a public issue.\n\n## License\n\nApplication source code is available under the [MIT License](./LICENSE). Third-party vehicle assets are governed by the attribution files stored beside them.\n"
+      ],
+      "assets": [
+        "\nFormDrive is an open-source, component-based automotive configurator built around real PBR vehicle assets. It combines a restrained glass interface with a live Three.js scene, vehicle-specific moving parts, material configuration, studio lighting and deterministic camera views.\n\nThe application is designed as a working refe",
+        "ck\n- React 19 and React Three Fiber component architecture\n- Three independently configured vehicle assets\n- Per-model door, glass, hood and trunk motion definitions\n- Five paint finishes and three wheel treatments\n- Dusk, Gallery and Noir lighting environments\n- Projected headlights and emissive rear lighting\n- Animated stu",
+        "ng\n- Cold-start model requests and staged, non-blank vehicle switching\n- Collection labels, preview assets and menu collisions\n- Configuration panel motion and safe scrolling\n- Responsive geometry at desktop, laptop, tablet and mobile viewports\n- WebGPU renderer activation and console errors\n\n## Model attribution\n\nThe applic"
+      ],
+      "Node.js": [
+        "ials |\n| Verification | Chrome DevTools Protocol scripts |\n\n## Getting started\n\n### Requirements\n\n- Node.js 22 or newer\n- npm 10 or newer\n- A current Chromium-based browser, Safari or Firefox\n\n### Install and run\n\n```bash\ngit clone https://github.com/nesdesignco/FormDrive.git\ncd FormDrive\nnpm install\nnpm run dev -- --port 123",
+        "ctly with the Vite preset, `npm run build` as the build command and `dist` as the output directory. Node.js is pinned to the 22.x release line for reproducible clean installs.\n\n## Project structure\n\n```text\nFormDrive/\n├── docs/                       # Repository media\n├── public/models/              # Vehicle binaries, previe"
+      ]
+    }
+  },
+  {
+    "name": "formdrive-license",
+    "url": "https://raw.githubusercontent.com/nesdesignco/FormDrive/main/LICENSE",
+    "http_status": 200,
+    "bytes": 1216,
+    "snippets": {
+      "License": [
+        "MIT License\n\nCopyright (c) 2026 Enes Kaymaz\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restric"
+      ],
+      "assets": [
+        "N THE\nSOFTWARE.\n\nThis license applies to the FormDrive application source only. Third-party\nvehicle assets remain subject to the licenses stored in public/models/.\n"
+      ]
+    }
+  },
+  {
+    "name": "vite-guide",
+    "url": "https://vite.dev/guide/",
+    "http_status": 200,
+    "bytes": 88707,
+    "snippets": {
+      "assets": [
+        "ame=\"generator\" content=\"VitePress v2.0.0-alpha.20\">\n    \n     \n      \n      \n    <link rel=\"modulepreload\" href=\"/assets",
+        "=\"preload stylesheet\" href=\"/assets/style.L8iUAWkd.css\" as=\"style\">\n      \n      \n     \n    <link rel=\"modulepreload\" href=\"/as",
+        "t type=\"module\" src=\"/assets/chunks/metadata.b2299088.js\"> \n      \n     \n     \n    <link rel=\"modulepreload\" href=\"/assets/ch"
+      ],
+      "Node.js": [
+        "tibility Note  Vite requires  Node.js  version 20.19+, 22.12+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.    Using create v",
+        "lank\" rel=\"noreferrer\">Node.js  version 20.19+, 22.12+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.    Using create vite with command line options  You can also directly specify the p"
+      ]
+    }
+  },
+  {
+    "name": "wechat-sdk",
+    "url": "https://res.wx.qq.com/open/js/jweixin-1.6.0.js",
+    "http_status": 200,
+    "bytes": 12938,
+    "snippets": {
+      "postMessage": [
+        ",reLaunch:function(e){O(function(){k(\"invokeMiniProgramAPI\",{name:\"reLaunch\",arg:{url:e.url}},e)})},postMessage:function(e){O(function(){k(\"invokeMiniProgramAPI\",{name:\"postMessage\",arg:e.data||{}},e)})},getEnv:function(e){O(function(){e({miniprogram:\"miniprogram\"===r.__wxjs_environment})})}}},w=1,T={},n.addEventListener(\"error\",",
+        "Launch\",arg:{url:e.url}},e)})},postMessage:function(e){O(function(){k(\"invokeMiniProgramAPI\",{name:\"postMessage\",arg:e.data||{}},e)})},getEnv:function(e){O(function(){e({miniprogram:\"miniprogram\"===r.__wxjs_environment})})}}},w=1,T={},n.addEventListener(\"error\",function(e){var n,i,t;l||(t=(n=e.target).tagName,i=n.src,\"IMG\"!=t&&\"V"
+      ]
+    }
+  }
+]

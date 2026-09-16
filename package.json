@@ -1,0 +1,25 @@
+{
+  "name": "car-wrap-h5",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "test": "node --experimental-strip-types --test src/data/config.test.ts src/viewer/framing.test.ts src/viewer/workshop.test.ts src/viewer/studio.test.ts src/viewer/photoEnvironments.test.ts server/ai-wrap.test.mjs src/data/wrapPlacement.test.ts src/data/imageQuality.test.ts src/data/transparentWrap.test.ts",
+    "start": "node server/start.mjs"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "three": "0.186.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "0.186.0",
+    "vite": "8.3.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "typescript": "7.0.2"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "colorSpace": "srgb",
+  "status": "official-showroom-material-reference-adapted-not-factory-paint-codes",
+  "sources": [
+    "https://www.xiaomiev.com/yu7",
+    "https://www.xiaomiev.com/su7",
+    "https://show.xiaomiev.com/activity-outer-assets/virtualroom/dist/production-f060b970/assets/index-BtX1JOre.js"
+  ],
+  "description": "自有展示色名；基色参考官方在线展厅公开材质 color 或 paintColorBase，金属度参考对应材质。本站未复刻官方多层珠光着色器及其灯光，非厂家补漆色号或实车测量值。液态金属枪灰原值不变。",
+  "colors": [
+    {
+      "id": "gem-green",
+      "label": "松影绿",
+      "hex": "#2AAD69",
+      "metalness": 0.7
+    },
+    {
+      "id": "titanium",
+      "label": "冷瓷银",
+      "hex": "#686869",
+      "metalness": 0.75
+    },
+    {
+      "id": "golden-pink",
+      "label": "玫瑰沙",
+      "hex": "#D1B9BD",
+      "metalness": 0.6
+    },
+    {
+      "id": "pearl-white",
+      "label": "云雾白",
+      "hex": "#DCDEE2",
+      "metalness": 0.75
+    },
+    {
+      "id": "cherry-red",
+      "label": "深绯红",
+      "hex": "#560D0D",
+      "metalness": 0.8
+    },
+    {
+      "id": "volcano-gray",
+      "label": "岩雾灰",
+      "hex": "#55535F",
+      "metalness": 0.75
+    },
+    {
+      "id": "twilight-purple",
+      "label": "烟岚紫",
+      "hex": "#625862",
+      "metalness": 0.65
+    },
+    {
+      "id": "capri-blue",
+      "label": "澄海蓝",
+      "hex": "#005A90",
+      "metalness": 0.7
+    },
+    {
+      "id": "obsidian-black",
+      "label": "曜夜黑",
+      "hex": "#16161C",
+      "metalness": 0.7
+    },
+    {
+      "id": "liquid-gunmetal",
+      "label": "液态金属枪灰",
+      "hex": "#626B75"
+    }
+  ]
+}

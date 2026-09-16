@@ -1,0 +1,163 @@
+{
+  "source": "https://show.xiaomiev.com/activity-outer-assets/virtualroom/dist/production-f060b970/assets/index-BtX1JOre.js",
+  "retrievedAt": "2026-09-16",
+  "notes": "从官方公开网页脚本读取字面量，没有执行远程脚本。jK 为 YU7 黑棚材质，DK 为 SU7 黑棚材质；金属银使用普通 color 作为近似，复杂漆层基色没有单一标准等价值。",
+  "colors": [
+    {
+      "id": "gem-green",
+      "officialMaterial": "carBody_MT_SpruceGreen",
+      "officialInternalLabel": "车身色-云杉绿L05",
+      "sourceBlock": "jK",
+      "usedColorField": "color",
+      "parameters": {
+        "color": "2796905",
+        "metalness": ".7",
+        "roughness": ".45",
+        "envColor": "4019029",
+        "fresnelColorDark": "0",
+        "fresnelColorLight": "6059306"
+      }
+    },
+    {
+      "id": "titanium",
+      "officialMaterial": "carBody_MT_TiSilver",
+      "officialInternalLabel": "车身色-钛金属G03",
+      "sourceBlock": "jK",
+      "usedColorField": "color",
+      "parameters": {
+        "color": "6842473",
+        "metalness": ".75",
+        "roughness": ".45",
+        "envColor": "7960696",
+        "fresnelColorDark": "7960439",
+        "fresnelColorLight": "14739196",
+        "paintColorBase": "13685724",
+        "paintColorMid": "16777215",
+        "paintColorSpecular": "5329760"
+      }
+    },
+    {
+      "id": "golden-pink",
+      "officialMaterial": "carBody_MT_RougePink",
+      "officialInternalLabel": "车身色-嫣格粉F01",
+      "sourceBlock": "jK",
+      "usedColorField": "color",
+      "parameters": {
+        "color": "13744573",
+        "metalness": ".6",
+        "roughness": ".5",
+        "envColor": "7103341",
+        "fresnelColorDark": "0",
+        "fresnelColorLight": "14871295"
+      }
+    },
+    {
+      "id": "pearl-white",
+      "officialMaterial": "carBody_MT_FrozenSnowWhite",
+      "officialInternalLabel": "车身色-凝雪白W01",
+      "sourceBlock": "jK",
+      "usedColorField": "paintColorBase",
+      "parameters": {
+        "color": "9605780",
+        "metalness": ".75",
+        "roughness": ".45",
+        "envColor": "8882314",
+        "fresnelColorDark": "8487297",
+        "fresnelColorLight": "12105912",
+        "paintColorBase": "14474978",
+        "paintColorMid": "14211288",
+        "paintColorSpecular": "4343123"
+      }
+    },
+    {
+      "id": "cherry-red",
+      "officialMaterial": "carBody_MT_BordeauxRed",
+      "officialInternalLabel": "车身色-波尔多红R08",
+      "sourceBlock": "jK",
+      "usedColorField": "paintColorBase",
+      "parameters": {
+        "color": "9605780",
+        "metalness": ".8",
+        "roughness": ".43",
+        "envColor": "5646898",
+        "fresnelColorDark": "7424866",
+        "fresnelColorLight": "10504040",
+        "paintColorBase": "5639437",
+        "paintColorMid": "14820930",
+        "paintColorSpecular": "8208994"
+      }
+    },
+    {
+      "id": "volcano-gray",
+      "officialMaterial": "carBody_MT_VolcanoGrey",
+      "officialInternalLabel": "车身色-火山灰G07",
+      "sourceBlock": "jK",
+      "usedColorField": "paintColorBase",
+      "parameters": {
+        "color": "9605780",
+        "metalness": ".75",
+        "roughness": ".45",
+        "envColor": "5461333",
+        "fresnelColorDark": "4934997",
+        "fresnelColorLight": "15658490",
+        "paintColorBase": "5591903",
+        "paintColorMid": "10725292",
+        "paintColorSpecular": "6316131"
+      }
+    },
+    {
+      "id": "twilight-purple",
+      "officialMaterial": "carBody_MT_MysteriousFog",
+      "officialInternalLabel": "车身色-迷雾紫P01",
+      "sourceBlock": "DK",
+      "usedColorField": "paintColorBase",
+      "parameters": {
+        "color": "5918554",
+        "metalness": ".65",
+        "roughness": ".4",
+        "envColor": "10124433",
+        "fresnelColorDark": "7105644",
+        "fresnelColorLight": "0",
+        "paintColorBase": "6445154",
+        "paintColorMid": "8816007",
+        "paintColorSpecular": "7434613"
+      }
+    },
+    {
+      "id": "capri-blue",
+      "officialMaterial": "carBody_MT_CapriBlue",
+      "officialInternalLabel": "车身色-卡布里蓝Q04",
+      "sourceBlock": "DK",
+      "usedColorField": "paintColorBase",
+      "parameters": {
+        "color": "26014",
+        "metalness": ".7",
+        "roughness": ".6",
+        "envColor": "7906270",
+        "fresnelColorDark": "5329768",
+        "fresnelColorLight": "0",
+        "paintColorBase": "23184",
+        "paintColorMid": "3906008",
+        "paintColorSpecular": "0"
+      }
+    },
+    {
+      "id": "obsidian-black",
+      "officialMaterial": "carBody_MT_SamuraiBlack",
+      "officialInternalLabel": "车身色-武士黑B02",
+      "sourceBlock": "DK",
+      "usedColorField": "paintColorBase",
+      "parameters": {
+        "color": "5921370",
+        "metalness": ".7",
+        "roughness": ".42",
+        "envColor": "4540751",
+        "fresnelColorDark": "7105644",
+        "fresnelColorLight": "0",
+        "paintColorBase": "1447452",
+        "paintColorMid": "7500402",
+        "paintColorSpecular": "7105644"
+      }
+    }
+  ]
+}

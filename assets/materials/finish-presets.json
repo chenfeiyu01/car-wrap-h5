@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "status": "development-reference-only",
+  "description": "自建演示膜面参数，未经过车膜厂商实物标定；金属感不等于金属颗粒、珠光或变色龙仿真。",
+  "presets": [
+    {
+      "id": "gloss",
+      "label": "亮面",
+      "roughness": 0.12,
+      "metalness": 0,
+      "clearcoat": 1,
+      "clearcoatRoughness": 0.045,
+      "envMapIntensity": 1.35
+    },
+    {
+      "id": "matte",
+      "label": "哑光",
+      "roughness": 0.48,
+      "metalness": 0,
+      "clearcoat": 0.12,
+      "clearcoatRoughness": 0.38,
+      "envMapIntensity": 1.15
+    },
+    {
+      "id": "satin",
+      "label": "缎面",
+      "roughness": 0.28,
+      "metalness": 0,
+      "clearcoat": 0.55,
+      "clearcoatRoughness": 0.19,
+      "envMapIntensity": 1.25
+    },
+    {
+      "id": "metallic",
+      "label": "金属感",
+      "roughness": 0.2,
+      "metalness": 0.55,
+      "clearcoat": 1,
+      "clearcoatRoughness": 0.065,
+      "envMapIntensity": 1.3
+    }
+  ]
+}

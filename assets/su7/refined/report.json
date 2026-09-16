@@ -1,0 +1,16 @@
+{
+  "source_vertices": 49553,
+  "refined_vertices": 49553,
+  "polygons": 49152,
+  "smoothing": {
+    "factor": 0.12,
+    "iterations": 3
+  },
+  "normal_strength": 0.18,
+  "texture_max_size": 2048,
+  "limitations": [
+    "single textured mesh",
+    "baked reflections and generated geometry distortions remain",
+    "paint mask inferred from original blue pixels, not CAD body segmentation"
+  ]
+}

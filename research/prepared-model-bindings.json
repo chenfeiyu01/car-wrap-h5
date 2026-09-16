@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kenney-sedan",
+    "source": "assets/models/kenney-sedan.glb",
+    "sourceSha256": "b532ea7d2c59f7f6b22b138cf1955218a2c1898f1cea932af4d3fd563c3959b7",
+    "model": "assets/models/kenney-sedan-prepared.glb",
+    "sha256": "27d6cd454f402a888562c94dfe2a7d3e5cb872210d7b198d5c95624cd185ec23",
+    "bytes": 193700,
+    "triangles": 2032,
+    "paintTriangles": 134,
+    "bodyTrimTriangles": 570,
+    "paintTarget": {
+      "nodeName": "body",
+      "nodeIndex": 1,
+      "meshIndex": 1,
+      "primitiveIndex": 1,
+      "materialIndex": 1,
+      "materialName": "body_paint"
+    },
+    "externalUris": [],
+    "geometryPreserved": true,
+    "limitation": "Only the original colored exterior panels are paintable; stock neutral trim/roof stays fixed. Palette UVs are not wrap-art UVs."
+  },
+  {
+    "id": "kenney-suv",
+    "source": "assets/models/kenney-suv.glb",
+    "sourceSha256": "9df31f6e89e927a8176fc792aa125f0b19dc1ba29d2025bfef7c4f4d6ab1778a",
+    "model": "assets/models/kenney-suv-prepared.glb",
+    "sha256": "2bdfeadc02dd25ecac4fa60b3e74d236da36ea2dbc357042614e3671ac51de29",
+    "bytes": 230364,
+    "triangles": 2474,
+    "paintTriangles": 178,
+    "bodyTrimTriangles": 636,
+    "paintTarget": {
+      "nodeName": "body",
+      "nodeIndex": 0,
+      "meshIndex": 0,
+      "primitiveIndex": 1,
+      "materialIndex": 1,
+      "materialName": "body_paint"
+    },
+    "externalUris": [],
+    "geometryPreserved": true,
+    "limitation": "Only the original colored exterior panels are paintable; stock neutral trim/roof stays fixed. Palette UVs are not wrap-art UVs."
+  }
+]

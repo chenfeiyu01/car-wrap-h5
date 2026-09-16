@@ -1,0 +1,345 @@
+[
+  {
+    "file": "assets/models/kenney-sedan.glb",
+    "bytes": 172216,
+    "sha256": "b532ea7d2c59f7f6b22b138cf1955218a2c1898f1cea932af4d3fd563c3959b7",
+    "glb_version": 2,
+    "external_uris": [
+      "Textures/colormap.png"
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "index": 0,
+            "extensions": {
+              "KHR_texture_transform": {
+                "texCoord": 0
+              }
+            }
+          },
+          "metallicFactor": 0.0
+        },
+        "doubleSided": true,
+        "name": "colormap"
+      }
+    ],
+    "nodes": [
+      {
+        "mesh": 0,
+        "translation": [
+          -0.3,
+          0.3,
+          0.659999967
+        ],
+        "name": "wheel-front-right"
+      },
+      {
+        "mesh": 1,
+        "translation": [
+          0.0,
+          0.15,
+          -0.025
+        ],
+        "name": "body"
+      },
+      {
+        "mesh": 2,
+        "translation": [
+          0.3,
+          0.3,
+          -0.659999967
+        ],
+        "name": "wheel-back-left"
+      },
+      {
+        "mesh": 3,
+        "translation": [
+          -0.3,
+          0.3,
+          -0.659999967
+        ],
+        "name": "wheel-back-right"
+      },
+      {
+        "mesh": 4,
+        "translation": [
+          0.3,
+          0.3,
+          0.659999967
+        ],
+        "name": "wheel-front-left"
+      }
+    ],
+    "meshes": [
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 0,
+              "NORMAL": 1,
+              "TANGENT": 2,
+              "TEXCOORD_0": 3
+            },
+            "indices": 4,
+            "material": 0
+          }
+        ],
+        "name": "wheel-front-right"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 5,
+              "NORMAL": 6,
+              "TANGENT": 7,
+              "TEXCOORD_0": 8
+            },
+            "indices": 9,
+            "material": 0
+          }
+        ],
+        "name": "body"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 10,
+              "NORMAL": 11,
+              "TANGENT": 12,
+              "TEXCOORD_0": 13
+            },
+            "indices": 14,
+            "material": 0
+          }
+        ],
+        "name": "wheel-back-left"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 15,
+              "NORMAL": 16,
+              "TANGENT": 17,
+              "TEXCOORD_0": 18
+            },
+            "indices": 19,
+            "material": 0
+          }
+        ],
+        "name": "wheel-back-right"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 20,
+              "NORMAL": 21,
+              "TANGENT": 22,
+              "TEXCOORD_0": 23
+            },
+            "indices": 24,
+            "material": 0
+          }
+        ],
+        "name": "wheel-front-left"
+      }
+    ],
+    "images": [
+      {
+        "uri": "Textures/colormap.png",
+        "name": "colormap"
+      }
+    ],
+    "triangle_count": 2032,
+    "has_uv_all": true
+  },
+  {
+    "file": "assets/models/kenney-suv.glb",
+    "bytes": 207572,
+    "sha256": "9df31f6e89e927a8176fc792aa125f0b19dc1ba29d2025bfef7c4f4d6ab1778a",
+    "glb_version": 2,
+    "external_uris": [
+      "Textures/colormap.png"
+    ],
+    "materials": [
+      {
+        "pbrMetallicRoughness": {
+          "baseColorTexture": {
+            "index": 0,
+            "extensions": {
+              "KHR_texture_transform": {
+                "texCoord": 0
+              }
+            }
+          },
+          "metallicFactor": 0.0
+        },
+        "doubleSided": true,
+        "name": "colormap"
+      }
+    ],
+    "nodes": [
+      {
+        "children": [
+          1
+        ],
+        "mesh": 0,
+        "translation": [
+          0.0,
+          0.2,
+          -2.88764564e-15
+        ],
+        "name": "body"
+      },
+      {
+        "mesh": 1,
+        "translation": [
+          0.0,
+          0.5,
+          -1.04999971
+        ],
+        "name": "wheel-back"
+      },
+      {
+        "mesh": 2,
+        "translation": [
+          0.3,
+          0.3,
+          -0.56
+        ],
+        "name": "wheel-back-left"
+      },
+      {
+        "mesh": 3,
+        "translation": [
+          -0.3,
+          0.3,
+          -0.56
+        ],
+        "name": "wheel-back-right"
+      },
+      {
+        "mesh": 4,
+        "translation": [
+          0.3,
+          0.3,
+          0.76
+        ],
+        "name": "wheel-front-left"
+      },
+      {
+        "mesh": 5,
+        "translation": [
+          -0.3,
+          0.3,
+          0.76
+        ],
+        "name": "wheel-front-right"
+      }
+    ],
+    "meshes": [
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 0,
+              "NORMAL": 1,
+              "TANGENT": 2,
+              "TEXCOORD_0": 3
+            },
+            "indices": 4,
+            "material": 0
+          }
+        ],
+        "name": "body"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 5,
+              "NORMAL": 6,
+              "TANGENT": 7,
+              "TEXCOORD_0": 8
+            },
+            "indices": 9,
+            "material": 0
+          }
+        ],
+        "name": "wheel-back"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 10,
+              "NORMAL": 11,
+              "TANGENT": 12,
+              "TEXCOORD_0": 13
+            },
+            "indices": 14,
+            "material": 0
+          }
+        ],
+        "name": "wheel-back-left"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 15,
+              "NORMAL": 16,
+              "TANGENT": 17,
+              "TEXCOORD_0": 18
+            },
+            "indices": 19,
+            "material": 0
+          }
+        ],
+        "name": "wheel-back-right"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 20,
+              "NORMAL": 21,
+              "TANGENT": 22,
+              "TEXCOORD_0": 23
+            },
+            "indices": 24,
+            "material": 0
+          }
+        ],
+        "name": "wheel-front-left"
+      },
+      {
+        "primitives": [
+          {
+            "attributes": {
+              "POSITION": 25,
+              "NORMAL": 26,
+              "TANGENT": 27,
+              "TEXCOORD_0": 28
+            },
+            "indices": 29,
+            "material": 0
+          }
+        ],
+        "name": "wheel-front-right"
+      }
+    ],
+    "images": [
+      {
+        "uri": "Textures/colormap.png",
+        "name": "colormap"
+      }
+    ],
+    "triangle_count": 2474,
+    "has_uv_all": true
+  }
+]

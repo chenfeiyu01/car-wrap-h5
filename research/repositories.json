@@ -1,0 +1,119 @@
+{
+  "verified_at": "2026-09-15T03:34:38.830325+00:00",
+  "items": [
+    {
+      "full_name": "mrdoob/three.js",
+      "html_url": "https://github.com/mrdoob/three.js",
+      "default_branch": "dev",
+      "pushed_at": "2026-09-14T15:39:59Z",
+      "updated_at": "2026-09-15T03:01:20Z",
+      "archived": false,
+      "stargazers_count": 115528,
+      "open_issues_count": 378,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "evidence_url": "https://api.github.com/repos/mrdoob/three.js",
+      "commit_error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "full_name": "pmndrs/react-three-fiber",
+      "html_url": "https://github.com/pmndrs/react-three-fiber",
+      "default_branch": "master",
+      "pushed_at": "2026-09-13T13:32:18Z",
+      "updated_at": "2026-09-15T01:20:37Z",
+      "archived": false,
+      "stargazers_count": 32301,
+      "open_issues_count": 74,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "evidence_url": "https://api.github.com/repos/pmndrs/react-three-fiber",
+      "commit_error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "full_name": "google/model-viewer",
+      "html_url": "https://github.com/google/model-viewer",
+      "default_branch": "master",
+      "pushed_at": "2026-07-07T21:23:39Z",
+      "updated_at": "2026-09-14T13:14:49Z",
+      "archived": false,
+      "stargazers_count": 8245,
+      "open_issues_count": 117,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "evidence_url": "https://api.github.com/repos/google/model-viewer",
+      "commit_error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "full_name": "BabylonJS/Babylon.js",
+      "html_url": "https://github.com/BabylonJS/Babylon.js",
+      "default_branch": "master",
+      "pushed_at": "2026-09-14T13:48:22Z",
+      "updated_at": "2026-09-14T23:47:58Z",
+      "archived": false,
+      "stargazers_count": 26070,
+      "open_issues_count": 23,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "evidence_url": "https://api.github.com/repos/BabylonJS/Babylon.js",
+      "commit_error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "full_name": "nesdesignco/FormDrive",
+      "html_url": "https://github.com/nesdesignco/FormDrive",
+      "default_branch": "main",
+      "pushed_at": "2026-07-24T00:32:15Z",
+      "updated_at": "2026-09-12T12:25:20Z",
+      "archived": false,
+      "stargazers_count": 8,
+      "open_issues_count": 0,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "evidence_url": "https://api.github.com/repos/nesdesignco/FormDrive",
+      "commit_error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "full_name": "donmccurdy/glTF-Transform",
+      "html_url": "https://github.com/donmccurdy/glTF-Transform",
+      "default_branch": "main",
+      "pushed_at": "2026-09-14T21:53:26Z",
+      "updated_at": "2026-09-14T08:18:35Z",
+      "archived": false,
+      "stargazers_count": 1965,
+      "open_issues_count": 78,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "evidence_url": "https://api.github.com/repos/donmccurdy/glTF-Transform",
+      "commit_error": "HTTP Error 403: rate limit exceeded"
+    }
+  ]
+}

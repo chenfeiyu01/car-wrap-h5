@@ -1,0 +1,124 @@
+{
+  "verified_at": "2026-09-15T03:34:38.830863+00:00",
+  "items": [
+    {
+      "name": "react",
+      "version": "19.3.0",
+      "license": "MIT",
+      "engines": {
+        "node": ">=0.10.0"
+      },
+      "peerDependencies": null,
+      "evidence_url": "https://registry.npmjs.org/react/latest"
+    },
+    {
+      "name": "react-dom",
+      "version": "19.3.0",
+      "license": "MIT",
+      "engines": null,
+      "peerDependencies": {
+        "react": "^19.3.0"
+      },
+      "evidence_url": "https://registry.npmjs.org/react-dom/latest"
+    },
+    {
+      "name": "vite",
+      "version": "8.3.0",
+      "license": "MIT",
+      "engines": {
+        "node": "^20.19.0 || >=22.12.0"
+      },
+      "peerDependencies": {
+        "tsx": "^4.8.1",
+        "jiti": ">=1.21.0",
+        "less": "^4.0.0",
+        "sass": "^1.70.0",
+        "yaml": "^2.4.2",
+        "stylus": ">=0.54.8",
+        "terser": "^5.16.0",
+        "esbuild": "^0.27.0 || ^0.28.0",
+        "sugarss": "^5.0.0",
+        "@types/node": "^20.19.0 || >=22.12.0",
+        "sass-embedded": "^1.70.0",
+        "@vitejs/devtools": "^0.7.1"
+      },
+      "evidence_url": "https://registry.npmjs.org/vite/latest"
+    },
+    {
+      "name": "@vitejs/plugin-react",
+      "version": "6.1.1",
+      "license": "MIT",
+      "engines": {
+        "node": "^20.19.0 || >=22.12.0"
+      },
+      "peerDependencies": {
+        "vite": "^8.0.0",
+        "oxc-transform-react": "^0.145.0",
+        "@rolldown/plugin-babel": "^0.1.7 || ^0.2.0",
+        "babel-plugin-react-compiler": "^1.0.0"
+      },
+      "evidence_url": "https://registry.npmjs.org/%40vitejs%2Fplugin-react/latest"
+    },
+    {
+      "name": "typescript",
+      "version": "7.0.2",
+      "license": "Apache-2.0",
+      "engines": {
+        "node": ">=16.20.0"
+      },
+      "peerDependencies": null,
+      "evidence_url": "https://registry.npmjs.org/typescript/latest"
+    },
+    {
+      "name": "three",
+      "version": "0.186.0",
+      "license": "MIT",
+      "engines": null,
+      "peerDependencies": null,
+      "evidence_url": "https://registry.npmjs.org/three/latest"
+    },
+    {
+      "name": "@types/three",
+      "version": "0.186.0",
+      "license": "MIT",
+      "engines": null,
+      "peerDependencies": {},
+      "evidence_url": "https://registry.npmjs.org/%40types%2Fthree/latest"
+    },
+    {
+      "name": "@react-three/fiber",
+      "version": "9.7.0",
+      "license": "MIT",
+      "engines": null,
+      "peerDependencies": {
+        "expo": ">=43.0",
+        "react": ">=19 <19.3",
+        "three": ">=0.156",
+        "expo-gl": ">=11.0",
+        "react-dom": ">=19 <19.3",
+        "expo-asset": ">=8.4",
+        "react-native": ">=0.78",
+        "expo-file-system": ">=11.0"
+      },
+      "evidence_url": "https://registry.npmjs.org/%40react-three%2Ffiber/latest"
+    },
+    {
+      "name": "gltf-validator",
+      "version": "2.0.0-dev.3.10",
+      "license": "Apache-2.0",
+      "engines": null,
+      "peerDependencies": null,
+      "evidence_url": "https://registry.npmjs.org/gltf-validator/latest"
+    },
+    {
+      "name": "@gltf-transform/cli",
+      "version": "4.5.0",
+      "license": "MIT",
+      "engines": {
+        "node": ">=20"
+      },
+      "peerDependencies": null,
+      "evidence_url": "https://registry.npmjs.org/%40gltf-transform%2Fcli/latest"
+    }
+  ]
+}
